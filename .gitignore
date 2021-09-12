@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+dist
+
+#Hardhat files
+cache
+cache-ovm
+artifacts
+artifacts-ovm
+typechain
+deployments
